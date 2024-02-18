@@ -65,7 +65,7 @@ include("employees/protect.php");
 
 
             <li class="nav-item">
-                <a class="nav-link " href="index.php">
+                <a style="background-color: lightgreen" class="nav-link " href="index.php">
                     <i class="bx bxs-cart"></i>
                     <span>Produtos</span>
                 </a>

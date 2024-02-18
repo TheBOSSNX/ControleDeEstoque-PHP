@@ -71,8 +71,8 @@ include("../employees/protect.php");
                     <span>Produtos</span>
                 </a>
             </li><!-- End Dashboard Nav -->
-            <li class="nav-item">
-                <a class="nav-link " href="suppliers.php">
+            <li  class="nav-item">
+                <a style="background-color: lightgreen" class="nav-link " href="suppliers.php">
                     <i class="bi bi-person"></i>
                     <span>Fornecedores</span>
 
