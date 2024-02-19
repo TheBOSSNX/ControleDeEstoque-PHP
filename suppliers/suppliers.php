@@ -72,7 +72,7 @@ include("../employees/protect.php");
                 </a>
             </li><!-- End Dashboard Nav -->
             <li  class="nav-item">
-                <a style="background-color: lightgreen" class="nav-link " href="suppliers.php">
+                <a style="background-color: #f6f9ff" class="nav-link " href="suppliers.php">
                     <i class="bi bi-person"></i>
                     <span>Fornecedores</span>
 
